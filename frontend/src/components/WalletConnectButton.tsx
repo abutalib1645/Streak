@@ -1,0 +1,1 @@
+// WalletConnectButton.tsx placeholder
